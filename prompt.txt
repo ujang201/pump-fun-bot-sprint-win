@@ -1,0 +1,4 @@
+Build a paper-trading bot for the pump.fun replay bounty: buy fresh coins
+early on fast reserve growth, exit on take-profit, stop-loss, trailing peak
+giveback, or max hold. Tune it with grade-local on the dev window and keep
+only the best variant. Paper trading only, no real SOL.
